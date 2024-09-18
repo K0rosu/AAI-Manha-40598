@@ -22,7 +22,7 @@ git commit -m "Primeira commit do projeto"
 git push -u origin main
 ```
 
-## Comando para colnar o projeto da aula e rodá-lo
+## Comando para clonar o projeto da aula e rodá-lo
 
 ```
 // Comando para clonar o projeto
