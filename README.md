@@ -39,5 +39,4 @@ git pull
 npm i
 // Comando para rodá-lo
 npm run start
-// Comando para
 ```
